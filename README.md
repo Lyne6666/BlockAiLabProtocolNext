@@ -1,2 +1,1 @@
-# BlockAiLabProtocolNext
-Advanced BlockAiLabProtocolNext project
+.
